@@ -1,0 +1,16 @@
+/*
+Theme Name: Harmonics
+Description: A harmonious and elegant theme with a focus on simplicity.
+Version: 1.0
+Author: Focoemcanto Pixel
+*/
+
+/* Global styles */
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f5f5f5;
+    color: #333;
+}
+h1, h2, h3, h4, h5, h6 {
+    color: #2c3e50;
+}
